@@ -1,5 +1,7 @@
 {
   "name": "alteryx-in-tableau-extension",
+  "author": "andre347 <andre.devries@theinformationlab.co.uk>",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +10,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.5.21"
+    "babel-polyfill": "^6.26.0",
+    "vue": "^2.5.21",
+    "vue-router": "^3.0.2",
+    "vuetify": "^1.4.0",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
