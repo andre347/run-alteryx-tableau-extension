@@ -8,7 +8,7 @@
         <author name="Andre de Vries" email="andre.devries@theinformationlab.co.uk" organization="The Information Lab" website="https://www.theinformationlab.co.uk"></author>
         <min-api-version>1.0</min-api-version>
         <source-location>
-            <url>http://localhost:8081/#/index</url>
+            <url>https://andre347.github.io/run-alteryx-tableau-extension/#/index</url>
         </source-location>
         <icon></icon>
         <context-menu>
