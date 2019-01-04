@@ -69,7 +69,9 @@ export default {
   name: "Tableau",
   data() {
     return {
-      popupUrl: `${window.location.origin}/#/configure`,
+      popupUrl: `${
+        window.location.origin
+      }/run-alteryx-tableau-extension/#/configure`,
       height: 800,
       width: 800,
       text: ""
